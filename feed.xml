@@ -3,12 +3,34 @@
     <title>Luís Rovai | Áudio Lab</title>
     <link href="https://lab.luisrovai.com/feed.xml" rel="self" />
     <link href="https://lab.luisrovai.com" />
-    <updated>2026-06-17T16:27:14-03:00</updated>
+    <updated>2026-06-17T18:45:11-03:00</updated>
     <author>
         <name>Luís Rovai</name>
     </author>
     <id>https://lab.luisrovai.com</id>
 
+    <entry>
+        <title>Aperte e fale!</title>
+        <author>
+            <name>Luís Rovai</name>
+        </author>
+        <link href="https://lab.luisrovai.com/aperte-e-fale.html"/>
+        <id>https://lab.luisrovai.com/aperte-e-fale.html</id>
+
+        <updated>2026-06-17T18:45:11-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    O nome desse dispositivo vem a calhar para ser o primeiro post nesse blog. E ele funciona assim: enquanto você mantém o botão apertado, o som do microfone passa. Assim que você solta, ele muta. É uma chave momentânea, tem uma mola que empurra a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>O nome desse dispositivo vem a calhar para ser o primeiro post nesse blog. </p>
+<p>E ele funciona assim: enquanto você mantém o botão apertado, o som do microfone passa. Assim que você solta, ele muta. É uma chave momentânea, tem uma mola que empurra a chave de volta para a posição de repouso.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/3/20260509_143722.jpg" alt="" width="2252" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-xs.jpg 640w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-sm.jpg 768w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-md.jpg 1024w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-lg.jpg 1366w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-xl.jpg 1600w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Imagino que isso seja o título</title>
         <author>
