@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Luís Rovai | Áudio Lab</title>
-    <link href="https://luseira.github.io/blog/feed.xml" rel="self" />
-    <link href="https://luseira.github.io/blog" />
+    <link href="https://lab.luisrovai.com/feed.xml" rel="self" />
+    <link href="https://lab.luisrovai.com" />
     <updated>2026-06-17T16:27:14-03:00</updated>
     <author>
         <name>Luís Rovai</name>
     </author>
-    <id>https://luseira.github.io/blog</id>
+    <id>https://lab.luisrovai.com</id>
 
     <entry>
         <title>Imagino que isso seja o título</title>
         <author>
             <name>Luís Rovai</name>
         </author>
-        <link href="https://luseira.github.io/blog/imagino-que-isso-seja-o-titulo.html"/>
-        <id>https://luseira.github.io/blog/imagino-que-isso-seja-o-titulo.html</id>
+        <link href="https://lab.luisrovai.com/imagino-que-isso-seja-o-titulo.html"/>
+        <id>https://lab.luisrovai.com/imagino-que-isso-seja-o-titulo.html</id>
 
         <updated>2026-06-17T16:27:14-03:00</updated>
             <summary type="html">
@@ -32,7 +32,7 @@
 </blockquote>
 <pre>Pre</pre>
 <p>Aqui estou usando a formatação de parágrafo. Agora, vou tentar inserir uma imagem:</p>
-<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://luseira.github.io/blog/media/posts/1/deusa_1.jpg" alt="Uma tarde em iguape" width="640" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-xs.jpg 640w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-sm.jpg 768w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-md.jpg 1024w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-lg.jpg 1366w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-xl.jpg 1600w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-2xl.jpg 1920w"></figure>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/1/deusa_1.jpg" alt="Uma tarde em iguape" width="640" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-xs.jpg 640w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-sm.jpg 768w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-md.jpg 1024w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-lg.jpg 1366w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-xl.jpg 1600w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-2xl.jpg 1920w"></figure>
 <figcaption>Uma tarde em Iguape</figcaption>
 </figure>
 <p>Vou continuar a escrever. Bla dsdasFLKDJF;DLAFKJDAF;LSADdfas, fdfasdfsdafsajkhadsfkjsdhflaksdfasdfm sdksdjadfkjdfm dflkjsdhfldskjfhdjfhdfdjfdsfsajfdsdjfm dfjdsafhafdjd,adf.  dfjafd asdkfjhdf fdsjah djjd jdhhhf dkjhd.</p>
@@ -53,20 +53,20 @@
 </blockquote>
 <pre>Pre</pre>
 <p>Aqui estou usando a formatação de parágrafo. Agora, vou tentar inserir uma imagem:</p>
-<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://luseira.github.io/blog/media/posts/1/deusa_1.jpg" alt="Uma tarde em iguape" width="640" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-xs.jpg 640w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-sm.jpg 768w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-md.jpg 1024w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-lg.jpg 1366w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-xl.jpg 1600w ,https://luseira.github.io/blog/media/posts/1/responsive/deusa_1-2xl.jpg 1920w"></figure>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/1/deusa_1.jpg" alt="Uma tarde em iguape" width="640" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-xs.jpg 640w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-sm.jpg 768w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-md.jpg 1024w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-lg.jpg 1366w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-xl.jpg 1600w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-2xl.jpg 1920w"></figure>
 <figcaption>Uma tarde em Iguape</figcaption>
 </figure>
 <p>Vou continuar a escrever. Bla dsdasFLKDJF;DLAFKJDAF;LSADdfas, fdfasdfsdafsajkhadsfkjsdhflaksdfasdfm sdksdjadfkjdfm dflkjsdhfldskjfhdjfhdfdjfdsfsajfdsdjfm dfjdsafhafdjd,adf.  dfjafd asdkfjhdf fdsjah djjd jdhhhf dkjhd.</p>
 
 <h5><br>Fotos dos dispositivos utilizados:</h5>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://luseira.github.io/blog/media/posts/1/gallery/Sidekick.jpg" data-size="4000x2252"><img loading="lazy" src="https://luseira.github.io/blog/media/posts/1/gallery/Sidekick-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/1/gallery/Sidekick.jpg" data-size="4000x2252"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/1/gallery/Sidekick-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>Sidekick</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://luseira.github.io/blog/media/posts/1/gallery/20260509_143722.jpg" data-size="4000x2252"><img loading="lazy" src="https://luseira.github.io/blog/media/posts/1/gallery/20260509_143722-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/1/gallery/20260509_143722.jpg" data-size="4000x2252"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/1/gallery/20260509_143722-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>Aperte e fale!</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://luseira.github.io/blog/media/posts/1/gallery/20260519_183756.jpg" data-size="4000x2252"><img loading="lazy" src="https://luseira.github.io/blog/media/posts/1/gallery/20260519_183756-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/1/gallery/20260519_183756.jpg" data-size="4000x2252"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/1/gallery/20260519_183756-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>RIg sendo colocada</figcaption>
 </figure>
 </div></div>
