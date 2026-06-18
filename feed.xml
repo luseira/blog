@@ -3,7 +3,7 @@
     <title>Luís Rovai | Áudio Lab</title>
     <link href="https://lab.luisrovai.com/feed.xml" rel="self" />
     <link href="https://lab.luisrovai.com" />
-    <updated>2026-06-17T23:11:29-03:00</updated>
+    <updated>2026-06-17T23:20:09-03:00</updated>
     <author>
         <name>Luís Rovai</name>
     </author>
@@ -28,6 +28,100 @@
                 <p>O nome desse dispositivo vem a calhar para ser o primeiro post nesse blog. </p>
 <p>E ele funciona assim: enquanto você mantém o botão apertado, o som do microfone passa. Assim que você solta, ele muta. É uma chave momentânea, tem uma mola que empurra a chave de volta para a posição de repouso.</p>
 <figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/3/20260509_143722.jpg" alt="" width="2252" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-xs.jpg 640w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-sm.jpg 768w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-md.jpg 1024w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-lg.jpg 1366w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-xl.jpg 1600w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Imagino que isso seja o título</title>
+        <author>
+            <name>Luís Rovai</name>
+        </author>
+        <link href="https://lab.luisrovai.com/imagino-que-isso-seja-o-titulo.html"/>
+        <id>https://lab.luisrovai.com/imagino-que-isso-seja-o-titulo.html</id>
+
+        <updated>2026-06-17T16:27:14-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <h1 id="mcetoc_1jrbg7tvmka">Ou será que aqui é o título?</h1>
+<h2 id="mcetoc_1jrbg7tvmkb">heading 2</h2>
+<h3 id="mcetoc_1jrbg7tvmkc">heading 3</h3>
+<h4 id="mcetoc_1jrbg7tvmkd">heading 4</h4>
+<h5 id="mcetoc_1jrbg7tvmke">heading 5</h5>
+<h6 id="mcetoc_1jrbg7tvmkf">heading 6</h6>
+<address>address</address><address> </address><address><code>code</code></address>
+<blockquote>
+<p>Blockquot</p>
+</blockquote>
+<pre>Pre</pre>
+<p>Aqui estou usando a formatação de parágrafo. Agora, vou tentar inserir uma imagem:</p>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/1/deusa_1.jpg" alt="Uma tarde em iguape" width="640" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-xs.jpg 640w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-sm.jpg 768w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-md.jpg 1024w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-lg.jpg 1366w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-xl.jpg 1600w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-2xl.jpg 1920w"></figure>
+<figcaption>Uma tarde em Iguape</figcaption>
+</figure>
+<p>Vou continuar a escrever. Bla dsdasFLKDJF;DLAFKJDAF;LSADdfas, fdfasdfsdafsajkhadsfkjsdhflaksdfasdfm sdksdjadfkjdfm dflkjsdhfldskjfhdjfhdfdjfdsfsajfdsdjfm dfjdsafhafdjd,adf.  dfjafd asdkfjhdf fdsjah djjd jdhhhf dkjhd.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="mcetoc_1jrbg7tvmka">Ou será que aqui é o título?</h1>
+<h2 id="mcetoc_1jrbg7tvmkb">heading 2</h2>
+<h3 id="mcetoc_1jrbg7tvmkc">heading 3</h3>
+<h4 id="mcetoc_1jrbg7tvmkd">heading 4</h4>
+<h5 id="mcetoc_1jrbg7tvmke">heading 5</h5>
+<h6 id="mcetoc_1jrbg7tvmkf">heading 6</h6>
+<address>address</address><address> </address><address><code>code</code></address>
+<blockquote>
+<p>Blockquot</p>
+</blockquote>
+<pre>Pre</pre>
+<p>Aqui estou usando a formatação de parágrafo. Agora, vou tentar inserir uma imagem:</p>
+<figure class="post__image"><figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/1/deusa_1.jpg" alt="Uma tarde em iguape" width="640" height="640" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-xs.jpg 640w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-sm.jpg 768w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-md.jpg 1024w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-lg.jpg 1366w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-xl.jpg 1600w ,https://lab.luisrovai.com/media/posts/1/responsive/deusa_1-2xl.jpg 1920w"></figure>
+<figcaption>Uma tarde em Iguape</figcaption>
+</figure>
+<p>Vou continuar a escrever. Bla dsdasFLKDJF;DLAFKJDAF;LSADdfas, fdfasdfsdafsajkhadsfkjsdhflaksdfasdfm sdksdjadfkjdfm dflkjsdhfldskjfhdjfhdfdjfdsfsajfdsdjfm dfjdsafhafdjd,adf.  dfjafd asdkfjhdf fdsjah djjd jdhhhf dkjhd.</p>
+
+<h5><br>Fotos dos dispositivos utilizados:</h5>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/1/gallery/Sidekick.jpg" data-size="4000x2252"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/1/gallery/Sidekick-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>Sidekick</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/1/gallery/20260509_143722.jpg" data-size="4000x2252"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/1/gallery/20260509_143722-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>Aperte e fale!</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/1/gallery/20260519_183756.jpg" data-size="4000x2252"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/1/gallery/20260519_183756-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>RIg sendo colocada</figcaption>
+</figure>
+</div></div>
+<p class="msg msg--success align-center">Ficou legal essa galeria de imagens. E eu não fiz nada para configurar.</p>
+<p>Vamos testar mais coisas:<br>lalala<br>lalas</p>
+<hr>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1jrbg7tvmka">Ou será que aqui é o título?</a>
+<ul>
+<li><a href="#mcetoc_1jrbg7tvmkb">heading 2</a>
+<ul>
+<li><a href="#mcetoc_1jrbg7tvmkc">heading 3</a>
+<ul>
+<li><a href="#mcetoc_1jrbg7tvmkd">heading 4</a>
+<ul>
+<li><a href="#mcetoc_1jrbg7tvmke">heading 5</a>
+<ul>
+<li><a href="#mcetoc_1jrbg7tvmkf">heading 6</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jrbgitovkq"> Fotos dos dispositivos utilizados:</a></li>
+</ul>
+</li>
+</ul>
+</div>
             ]]>
         </content>
     </entry>
