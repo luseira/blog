@@ -3,46 +3,52 @@
     <title>Luís Rovai | Áudio Lab</title>
     <link href="https://lab.luisrovai.com/feed.xml" rel="self" />
     <link href="https://lab.luisrovai.com" />
-    <updated>2026-06-22T17:07:34-03:00</updated>
+    <updated>2026-06-23T22:12:27-03:00</updated>
     <author>
         <name>Luís Rovai</name>
     </author>
     <id>https://lab.luisrovai.com</id>
 
     <entry>
-        <title>86 páginas em plano sequência.</title>
+        <title>Bastidores de &quot;Covardia&quot;</title>
         <author>
             <name>Luís Rovai</name>
         </author>
         <link href="https://lab.luisrovai.com/ai-e-covardia.html"/>
         <id>https://lab.luisrovai.com/ai-e-covardia.html</id>
-        <media:content url="https://lab.luisrovai.com/media/posts/4/Steady-2.JPG" medium="image" />
+        <media:content url="https://lab.luisrovai.com/media/posts/4/Equipe.JPG" medium="image" />
 
         <updated>2026-06-22T12:49:14-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://lab.luisrovai.com/media/posts/4/Steady-2.JPG" alt="" />
-                    Post sobre o processo de captação de som direto para longa de ficcão "Covardia", dirigido por Maurício Bouzon e Caetano Gottardi, envolvendo um plano sequência de 86 páginas e vasto aparato de comunicação. Logo nas primeiras conversas com a produção, ficou claro que esse projeto&hellip;
+                        <img src="https://lab.luisrovai.com/media/posts/4/Equipe.JPG" alt="" />
+                    <h4><em>Num escritório envidraçado, 86 páginas em plano sequência e todo um aparato de comunicação. Os bastidores da captação de som direto para longa de ficção "Covardia", dirigido por Maurício Bouzon e Caetano Gottardi.</em></h4>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://lab.luisrovai.com/media/posts/4/Steady-2.JPG" class="type:primaryImage" alt="" /></p>
-                <h4><em>Post sobre o processo de captação de som direto para longa de ficcão "Covardia", dirigido por Maurício Bouzon e Caetano Gottardi, envolvendo um plano sequência de 86 páginas e vasto aparato de comunicação.  </em></h4>
+                    <p><img src="https://lab.luisrovai.com/media/posts/4/Equipe.JPG" class="type:primaryImage" alt="" /></p>
+                <h4><em>Num escritório envidraçado, 86 páginas em plano sequência e todo um aparato de comunicação. Os bastidores da captação de som direto para longa de ficção "Covardia", dirigido por Maurício Bouzon e Caetano Gottardi.</em></h4>
 <hr>
-<p>Logo nas primeiras conversas com a produção, ficou claro que esse projeto tinha desafios técnicos consideráveis. A maior parte do filme acontece num longo plano sequência, em que uma personagem atende repetidas ligações telefônicas e interage com os interlocutores em tempo real. Tudo se passa em um andar de escritório corporativo vazio, com piso acarpetado e janelas de vidro. Um pequeno pesadelo de reflexos, mas com boa acústica.</p>
+<h4>Briefing<br><br></h4>
+<p>Logo nas primeiras conversas com a produção, ficou claro que esse projeto tinha desafios técnicos consideráveis. A maior parte do filme acontece num longo plano sequência, em que uma personagem atende repetidas ligações telefônicas e interage com os interlocutores em tempo real. Tudo se passa em um andar de escritório corporativo vazio, com piso acarpetado e janelas de vidro. </p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/4/Steady.JPG" alt="" width="1920" height="1081" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/4/responsive/Steady-xs.JPG 640w ,https://lab.luisrovai.com/media/posts/4/responsive/Steady-sm.JPG 768w ,https://lab.luisrovai.com/media/posts/4/responsive/Steady-md.JPG 1024w ,https://lab.luisrovai.com/media/posts/4/responsive/Steady-lg.JPG 1366w ,https://lab.luisrovai.com/media/posts/4/responsive/Steady-xl.JPG 1600w ,https://lab.luisrovai.com/media/posts/4/responsive/Steady-2xl.JPG 1920w"></figure>
-<p class="msg--highlight  msg--success msg align-center">Sim, um plano sequência de 86 páginas 🫠 </p>
-<p>Não bastasse a complexidade de operar um balé de 1h20' entre elenco, steadycam, maquinista e microfonista, nesse caso havia ainda a necessidade de todo um aparato de comunicação.</p>
-<p><span style="font-size: inherit;">Era preciso que um grupo de atores estivesse num local separado, dando as falas fora de quadro; </span>a direção precisava se comunicar com o elenco, e o protagonista em cena precisava ouvir tudo isso num ponto eletrônico, que não falhasse, não caísse da orelha e fosse invisível. </p>
-<p>Tranquilo! <br><br><span style="font-size: inherit;">Então havia alguns desafios principais:</span></p>
-<ol>
-<li>conceber o aparato de comunicação</li>
-<li>garantir cobertura de RF (rádio frequência) em todo o set</li>
-<li>ensaiar a movimentação do plano sequência</li>
-</ol>
-<p>A primeira coisa em que me debrucei foi sobre o ponto eletrônico (ou monitoração de áudio sem fio, intra-auricular). Eu não havia tido experiências muito boas com Phonak Invisity, tanto no alcance da transmissão, quanto na qualidade de áudio.</p>
-<p>Num outro trabalho, mesmo com antenas direcionais, o link entre transmissor e receptor era frágil e eventualmente caia; o que nesse projeto não poderia acontecer. Além disso, era a alternativa mais cara.<br><br>Tudo somado, não estava muito inclinado a ir com os Phonaks. Ao invés deles, uma solução que me veio à mente foram aqueles fones intra-auriculares de cabo bem fino e quase transparentes, tipo <a href="https://www.bubblebeeindustries.com/collections/the-sidekick-ifb-in-ear-monitor/products/the-sidekick-3-ifb-in-ear-monitor" target="_blank" rel="noopener noreferrer">Bubblebee Sideckick</a> e <a href="https://www.haltertechnical.com/peeko.html" target="_blank" rel="noopener noreferrer">Halter Technical Peeko</a>.</p>
+<p class="msg msg--success align-center">Sim, um plano sequência de 86 páginas 🫠 </p>
+<p>Não bastasse a complexidade de operar um balé de 1h20' entre elenco, steadycam, maquinista e microfonista, havia ainda a necessidade de i<span style="font-size: inherit;">mplementar um dispositivo de o comunicação de mão dupla entre o protagonista, elenco de apoio e equipe de direção.</span><br><br><span style="font-size: inherit;">A proposta era que as todas ligações telefônicas - e em diferentes telefones - fossem interações verdadeiras, com ambos os lados da conversa valendo. Isso daria mais rítmo e veracidade para a história, e era um elemento fundamental para o filme funcionar.<br><br></span>A equipe de direção também precisava falar com o protagonista em cena, para dar deixar e ler rubricas. </p>
+<p>Por fim, o protagonista em cena ouviria tudo isso num ponto eletrônico, que não falhasse, não caísse da orelha e fosse invisível. </p>
+<p>Então, o formato pensado foi o seguinte:</p>
+<ul>
+<li>elenco de apoio e direção em uma sala separada, para que as vozes deles não vazassem no set;</li>
+<li>um microfone direcional para o elenco de apoio, e eles se revezariam ao darem os textos;</li>
+<li>um microfone dinâmico para direção, com chave "push-to-talk";</li>
+<li>comteks para todos (09, no total);</li>
+<li>monitoração de vídeo.</li>
+</ul>
+<h4>Pesquisa</h4>
+<p> </p>
+<p>A primeira coisa sobre a qual me debrucei foi o ponto eletrônico (*aqui estou usando esse nome popular, mas por "ponto eletrônico" eu me refiro à monitoração de áudio sem fio, intra-auricular). Eu não havia tido experiências muito boas com Phonak Invisity, tanto no alcance da transmissão, quanto na qualidade de áudio.</p>
+<p>Num outro trabalho, mesmo com antenas direcionais, o link entre transmissor e receptor era frágil e eventualmente caia; algo que não poderia acontecer nesse projeto, sob risco de arruinar um take de mais de uma hora. Além disso, era a alternativa mais cara.<br><br>Tudo somado, eu não estava muito inclinado a ir com os Phonaks. Ao invés deles, uma solução que me veio à mente foram fones intra-auriculares de cabo bem fino e quase transparentes, mais especificamente os <a href="https://www.bubblebeeindustries.com/collections/the-sidekick-ifb-in-ear-monitor/products/the-sidekick-3-ifb-in-ear-monitor" target="_blank" rel="noopener noreferrer">Bubblebee Sideckick</a> e <a href="https://www.haltertechnical.com/peeko.html" target="_blank" rel="noopener noreferrer">Halter Technical Peeko</a>.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/4/gallery/Sidekick_quad.jpeg" data-size="2252x2252"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/4/gallery/Sidekick_quad-thumbnail.jpeg" alt="" width="720" height="720"></a>
 <figcaption>Bubblebee Sidekick</figcaption>
@@ -51,20 +57,77 @@
 <figcaption>Testando em mim; sem make, sem nada</figcaption>
 </figure>
 </div></div>
-<p><br><br>Se conseguíssemos esconder o cabo no trecho em que ele fica exposto, seria possível conectar o fone a um receptor sem fio (Sony URX-P03), e criar uma alternativa de baixo custo, com boa recepção de RF e qualidade de áudio superior a de um Phonak.<br><br>Apresentei essa opção para a direção, que acreditou na sua viabilidade. O figurino era uma camisa social cobrindo boa parte da nuca, e o Luiz Bertazzo, nosso protagonista, não estaria com o cabelo bem curto.<br><br><span style="color: #02192b; font-family: -apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: 1.26562em; font-weight: bold; letter-spacing: -0.54px;">Visita técnica </span></p>
-<p>O próximo passo foi marcamos uma visita técnica no local, com o objetivo de apresentar o equipamento para o Bertazzo, definir o posicionamento do restante da equipe e fazer testes de cobertura de rádio. </p>
-<p>Caminhando pelo andar junto com o Gabriel Bianchini (diretor de fotografia) e a equipe de direção, pensamos o melhor local para montar nossa base. Tinha de ser um local isolado o bastante para a voz do elenco de apoio não vazar no set, mas perto o suficiente para viabilizar o cabeamento de RF.<br><br>Inicialmente, nossa idéia foi colocar som + direção + elenco de apoio numa mesma sala, mas posteriormente entendemos que seria melhor separar a direção.</p>
+<p><br><br>Se conseguíssemos esconder o cabo no pedaço em que ele fica exposto, seria possível conectar o fone a um receptor sem fio, e criar uma alternativa de baixo custo, com recepção de RF e qualidade de áudio superiores a de um Phonak.<br><br>Apresentei essa opção para a direção, que acreditou na sua viabilidade. O figurino era uma camisa social cobrindo boa parte da nuca, e o Luiz Bertazzo, nosso protagonista, não estaria com o cabelo bem curto, o que ajudaria a esconder o cabo.</p>
+<h4>Visita técnica</h4>
+<p><br>O próximo passo foi marcamos uma visita técnica no local, com o objetivo de apresentar o equipamento para o Bertazzo, definir um local para a equipe e fazer testes da cobertura de rádio (lapela e ponto eletrônico, principalmente).</p>
+<p>Foto do andar</p>
+<p>Som, direção, produção e fotografia reunidos, caminhamos pela locação estudando o melhor local para montar nossa base. Tinha de ser isolado o bastante acusticamente, mas perto o suficiente para viabilizar o cabeamento das antenas.</p>
+<p>Aliás, o posicionamento das antenas era outro elemento crítico: eu precisava ter cobertura de RF num andar inteiro, incluindo o hall de elevadores. Era uma área bem grande.</p>
+<p>*Inicialmente, a idéia foi colocar som + direção + elenco de apoio numa mesma sala, mas posteriormente entendemos que seria melhor separar a direção, para dar mais liberdade para dialogarem.</p>
 <p>Foto salinha ou planta</p>
-<p><br>Depois de definir o local da base e cabear as antenas próximas ao set, era hora microfonar o elenco, colocar o ponto eletrônico e partir para o teste.</p>
+<p>Depois de definir o local da base e cabear as antenas próximas ao set, chegou a hora do teste. Vesti o Bertazzo com o seguinte equipamento:</p>
 <ul>
 <li>01 cápsula Sanken COS11-D</li>
 <li>01 transmissor Audio LTD. A10, fixado com uma faixa de tornozelo</li>
 <li>01 receptor Sony URX-P03, fixado com uma faixa de cintura</li>
 <li>01 fone intra-auricular Bubblebee Sideckick 3</li>
 </ul>
-<p>Felizmente, correu tudo bem. O Bertazzo se sentiu confortável com o equipamento e a cobertura de RF foi sólida, tanto no ponto, como no lapela. Outra parte importante desse teste estava em checar que, mesmo sem aplicar maquiagem, seria viável esconder o Sideckick.<br><br><br><br><br></p>
+<p>Na outra ponta, eu estava com o seguinte:</p>
+<ul>
+<li>01 mixer/gravador Sound Devices Scorpio</li>
+<li>01 receptor Audio LTD. A10</li>
+<li>01 distribuidor de RF Betso Octopus</li>
+<li>02 antenas LPDA Betso Sharkie</li>
+<li>02 cabos coaxiais RG-58 de 30 metros</li>
+<li>01 microfone Shure SM57 (talkback)</li>
+<li>01 transmissor Sony UTX-B03 (transmitindo para o ponto)</li>
+<li>01 transmissor Sony UTX-B03 (transmissão para os "comteks")</li>
+</ul>
+<p><em>Correu tudo bem. O Luiz se sentiu confortável, tivemos boa cobertura de RF, tanto no ponto eletrônico, como no lapela. Outra parte importante desse teste foi em checar que, mesmo sem aplicar maquiagem, seria viável esconder o Sideckick.</em></p>
+<h4>Preparação</h4>
 <p> </p>
+<p>Deste dia em diante, eu tinha aproximadamente uma semana até o ensaio geral, em que simularíamos as condições reais da filmagem, com arte e pré-light feitos. Da minha parte, faltava apenas a chave "push-to-talk" para o microfone da direção. <br><br>Como o nome já diz, é uma chave que só abre o microfone enquanto o botão estiver pressionado, para que a direção pudesse conversar durante o take, sem vazar no ponto eletrônico.<br><br>Eu já tinha feito um disposito destes anteriormente, mas precisei desmontá-la. Então decidi montar outra, mas com uma chave de melhor qualidade e prensa cabos nas laterais. O circuito é realmente simples, precisa apenas da chave e um resistor.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/4/20260509_143722.jpeg" alt="" width="2252" height="2252" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-xs.jpeg 640w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-sm.jpeg 768w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-md.jpeg 1024w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-lg.jpeg 1366w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-xl.jpeg 1600w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-2xl.jpeg 1920w"></figure>
+<p>Essa versão funciona perfeitamente para microfones dinâmicos, com conexões balanceadas. Para microfones condensadores com phantom power e sinais não balanceados, outros circuitos são mais adequados.</p>
+<p>Diagrama de sinal</p>
+<p>final da montagem</p>
+<p>ENSAIO</p>
+<p>importancia do ensaio</p>
+<p>falar do microfonista</p>
+<p>separação da salinha</p>
+<p>lapela na camimsa</p>
+<p>RODANDO</p>
+<p>estratégia de dividir em 3</p>
+<p>dificuldade com reflexos</p>
+<p>planos inteiros</p>
+<p>frustração / felicidade</p>
+<p>outras cenas </p>
+<p>CONSIDERAÇÕES FINAIS</p>
+<p>fim</p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Aperte e fale! - teste</title>
+        <author>
+            <name>Luís Rovai</name>
+        </author>
+        <link href="https://lab.luisrovai.com/aperte-e-fale.html"/>
+        <id>https://lab.luisrovai.com/aperte-e-fale.html</id>
+
+        <updated>2026-06-17T18:45:11-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    O nome desse dispositivo vem a calhar para ser o primeiro post nesse blog. E ele funciona assim: enquanto você mantém o botão apertado, o som do microfone passa. Assim que você solta, ele muta. É uma chave momentânea, tem uma mola que empurra a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>O nome desse dispositivo vem a calhar para ser o primeiro post nesse blog. </p>
+<p>E ele funciona assim: enquanto você mantém o botão apertado, o som do microfone passa. Assim que você solta, ele muta. É uma chave momentânea, tem uma mola que empurra a chave de volta para a posição de repouso.</p>
+<figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/3/20260509_143722.jpg" alt="" width="2252" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-xs.jpg 640w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-sm.jpg 768w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-md.jpg 1024w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-lg.jpg 1366w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-xl.jpg 1600w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-2xl.jpg 1920w"></figure>
             ]]>
         </content>
     </entry>
