@@ -3,7 +3,7 @@
     <title>Luís Rovai | Áudio Lab</title>
     <link href="https://lab.luisrovai.com/feed.xml" rel="self" />
     <link href="https://lab.luisrovai.com" />
-    <updated>2026-06-23T22:12:27-03:00</updated>
+    <updated>2026-06-23T23:36:45-03:00</updated>
     <author>
         <name>Luís Rovai</name>
     </author>
@@ -62,17 +62,20 @@
 <p><br>O próximo passo foi marcamos uma visita técnica no local, com o objetivo de apresentar o equipamento para o Bertazzo, definir um local para a equipe e fazer testes da cobertura de rádio (lapela e ponto eletrônico, principalmente).</p>
 <p>Foto do andar</p>
 <p>Som, direção, produção e fotografia reunidos, caminhamos pela locação estudando o melhor local para montar nossa base. Tinha de ser isolado o bastante acusticamente, mas perto o suficiente para viabilizar o cabeamento das antenas.</p>
-<p>Aliás, o posicionamento das antenas era outro elemento crítico: eu precisava ter cobertura de RF num andar inteiro, incluindo o hall de elevadores. Era uma área bem grande.</p>
 <p>*Inicialmente, a idéia foi colocar som + direção + elenco de apoio numa mesma sala, mas posteriormente entendemos que seria melhor separar a direção, para dar mais liberdade para dialogarem.</p>
+<p>Aliás, o posicionamento das antenas era outro elemento crítico: eu precisava ter cobertura de RF num andar inteiro, incluindo longos corredores e o hall de elevadores. </p>
+<p>Acabei optando por deixar as antenas bem espaçadas (uns 10m aprox.), quase como duas "zonas", uma escolha que acaba por sacrificar o diversity. Ou seja, em alguns cantos, o sinal era recebido quase que somente pela antena A; em outos, somente pela antena B.</p>
+<p>Isso impede que o receptor tenha sempre duas antenas para alternar ou combinar os sinais, mas foi a maneira de cobrir todo o espaço necessário, sem um sistema de zonas propriamente dito.<br><br>Além das antenas direcionais, também aproximei do set os transmissores para o ponto eletrônico e o retorno do microfonista. Como eram transmissores bodypack sem antena externa, usei cabos XLR mesmo. </p>
 <p>Foto salinha ou planta</p>
-<p>Depois de definir o local da base e cabear as antenas próximas ao set, chegou a hora do teste. Vesti o Bertazzo com o seguinte equipamento:</p>
+<p> </p>
+<p>Definido o local da base, cabei as antenas nos locais que considerei ideais vesti no Bertazzo o seguinte equipamento:</p>
 <ul>
-<li>01 cápsula Sanken COS11-D</li>
+<li>01 cápsula Sanken COS11-D (ainda sem figurino)</li>
 <li>01 transmissor Audio LTD. A10, fixado com uma faixa de tornozelo</li>
 <li>01 receptor Sony URX-P03, fixado com uma faixa de cintura</li>
 <li>01 fone intra-auricular Bubblebee Sideckick 3</li>
 </ul>
-<p>Na outra ponta, eu estava com o seguinte:</p>
+<p>Na outra ponta, eu estava com o equipamento numa bolsa, com o mínimo necessário para testar. Algo como:</p>
 <ul>
 <li>01 mixer/gravador Sound Devices Scorpio</li>
 <li>01 receptor Audio LTD. A10</li>
@@ -81,9 +84,9 @@
 <li>02 cabos coaxiais RG-58 de 30 metros</li>
 <li>01 microfone Shure SM57 (talkback)</li>
 <li>01 transmissor Sony UTX-B03 (transmitindo para o ponto)</li>
-<li>01 transmissor Sony UTX-B03 (transmissão para os "comteks")</li>
+<li>01 transmissor Sony UTX-B40 (transmissão para "comtek" de direção)</li>
 </ul>
-<p><em>Correu tudo bem. O Luiz se sentiu confortável, tivemos boa cobertura de RF, tanto no ponto eletrônico, como no lapela. Outra parte importante desse teste foi em checar que, mesmo sem aplicar maquiagem, seria viável esconder o Sideckick.</em></p>
+<p><em><br></em>Felizmente, correu tudo bem. O Luiz se sentiu confortável, o volume Sidekick era mais do que suficiente e tivemos boa cobertura de RF, mesmo nos pontos mais distantes do set. <br><br>Outra parte importante desse teste foi em checar que, mesmo sem aplicar maquiagem, seria viável esconder o Sideckick.</p>
 <h4>Preparação</h4>
 <p> </p>
 <p>Deste dia em diante, eu tinha aproximadamente uma semana até o ensaio geral, em que simularíamos as condições reais da filmagem, com arte e pré-light feitos. Da minha parte, faltava apenas a chave "push-to-talk" para o microfone da direção. <br><br>Como o nome já diz, é uma chave que só abre o microfone enquanto o botão estiver pressionado, para que a direção pudesse conversar durante o take, sem vazar no ponto eletrônico.<br><br>Eu já tinha feito um disposito destes anteriormente, mas precisei desmontá-la. Então decidi montar outra, mas com uma chave de melhor qualidade e prensa cabos nas laterais. O circuito é realmente simples, precisa apenas da chave e um resistor.</p>
@@ -105,29 +108,6 @@
 <p>CONSIDERAÇÕES FINAIS</p>
 <p>fim</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Aperte e fale! - teste</title>
-        <author>
-            <name>Luís Rovai</name>
-        </author>
-        <link href="https://lab.luisrovai.com/aperte-e-fale.html"/>
-        <id>https://lab.luisrovai.com/aperte-e-fale.html</id>
-
-        <updated>2026-06-17T18:45:11-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    O nome desse dispositivo vem a calhar para ser o primeiro post nesse blog. E ele funciona assim: enquanto você mantém o botão apertado, o som do microfone passa. Assim que você solta, ele muta. É uma chave momentânea, tem uma mola que empurra a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> </p>
-<p>O nome desse dispositivo vem a calhar para ser o primeiro post nesse blog. </p>
-<p>E ele funciona assim: enquanto você mantém o botão apertado, o som do microfone passa. Assim que você solta, ele muta. É uma chave momentânea, tem uma mola que empurra a chave de volta para a posição de repouso.</p>
-<figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/3/20260509_143722.jpg" alt="" width="2252" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-xs.jpg 640w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-sm.jpg 768w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-md.jpg 1024w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-lg.jpg 1366w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-xl.jpg 1600w ,https://lab.luisrovai.com/media/posts/3/responsive/20260509_143722-2xl.jpg 1920w"></figure>
             ]]>
         </content>
     </entry>
