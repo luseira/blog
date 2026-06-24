@@ -3,7 +3,7 @@
     <title>Luís Rovai | Áudio Lab</title>
     <link href="https://lab.luisrovai.com/feed.xml" rel="self" />
     <link href="https://lab.luisrovai.com" />
-    <updated>2026-06-23T23:36:45-03:00</updated>
+    <updated>2026-06-24T00:58:40-03:00</updated>
     <author>
         <name>Luís Rovai</name>
     </author>
@@ -45,8 +45,7 @@
 <li>comteks para todos (09, no total);</li>
 <li>monitoração de vídeo.</li>
 </ul>
-<h4>Pesquisa</h4>
-<p> </p>
+<h4>Pesquisa<br><br></h4>
 <p>A primeira coisa sobre a qual me debrucei foi o ponto eletrônico (*aqui estou usando esse nome popular, mas por "ponto eletrônico" eu me refiro à monitoração de áudio sem fio, intra-auricular). Eu não havia tido experiências muito boas com Phonak Invisity, tanto no alcance da transmissão, quanto na qualidade de áudio.</p>
 <p>Num outro trabalho, mesmo com antenas direcionais, o link entre transmissor e receptor era frágil e eventualmente caia; algo que não poderia acontecer nesse projeto, sob risco de arruinar um take de mais de uma hora. Além disso, era a alternativa mais cara.<br><br>Tudo somado, eu não estava muito inclinado a ir com os Phonaks. Ao invés deles, uma solução que me veio à mente foram fones intra-auriculares de cabo bem fino e quase transparentes, mais especificamente os <a href="https://www.bubblebeeindustries.com/collections/the-sidekick-ifb-in-ear-monitor/products/the-sidekick-3-ifb-in-ear-monitor" target="_blank" rel="noopener noreferrer">Bubblebee Sideckick</a> e <a href="https://www.haltertechnical.com/peeko.html" target="_blank" rel="noopener noreferrer">Halter Technical Peeko</a>.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
@@ -59,39 +58,23 @@
 </div></div>
 <p><br><br>Se conseguíssemos esconder o cabo no pedaço em que ele fica exposto, seria possível conectar o fone a um receptor sem fio, e criar uma alternativa de baixo custo, com recepção de RF e qualidade de áudio superiores a de um Phonak.<br><br>Apresentei essa opção para a direção, que acreditou na sua viabilidade. O figurino era uma camisa social cobrindo boa parte da nuca, e o Luiz Bertazzo, nosso protagonista, não estaria com o cabelo bem curto, o que ajudaria a esconder o cabo.</p>
 <h4>Visita técnica</h4>
-<p><br>O próximo passo foi marcamos uma visita técnica no local, com o objetivo de apresentar o equipamento para o Bertazzo, definir um local para a equipe e fazer testes da cobertura de rádio (lapela e ponto eletrônico, principalmente).</p>
+<p><br>O próximo passo foi marcamos uma visita técnica no local, com o objetivo de apresentar o equipamento para o Bertazzo, definir um local para a equipe e fazer testes da cobertura de rádio.</p>
 <p>Foto do andar</p>
-<p>Som, direção, produção e fotografia reunidos, caminhamos pela locação estudando o melhor local para montar nossa base. Tinha de ser isolado o bastante acusticamente, mas perto o suficiente para viabilizar o cabeamento das antenas.</p>
-<p>*Inicialmente, a idéia foi colocar som + direção + elenco de apoio numa mesma sala, mas posteriormente entendemos que seria melhor separar a direção, para dar mais liberdade para dialogarem.</p>
-<p>Aliás, o posicionamento das antenas era outro elemento crítico: eu precisava ter cobertura de RF num andar inteiro, incluindo longos corredores e o hall de elevadores. </p>
+<p>Som, direção, produção e fotografia reunidos, caminhamos pela locação procurando o melhor local para montar nossa base*. Encontramos duas salinhas perto da entrada que funcionavam bem, com isolamento acústico suficiente, mas perto o bastante para viabilizar o cabeamento das antenas. <br><br>Aliás, o posicionamento das antenas era outro ponto crítico: eu precisava ter cobertura de RF num andar inteiro, incluindo longos corredores e o hall de elevadores. </p>
 <p>Acabei optando por deixar as antenas bem espaçadas (uns 10m aprox.), quase como duas "zonas", uma escolha que acaba por sacrificar o diversity. Ou seja, em alguns cantos, o sinal era recebido quase que somente pela antena A; em outos, somente pela antena B.</p>
 <p>Isso impede que o receptor tenha sempre duas antenas para alternar ou combinar os sinais, mas foi a maneira de cobrir todo o espaço necessário, sem um sistema de zonas propriamente dito.<br><br>Além das antenas direcionais, também aproximei do set os transmissores para o ponto eletrônico e o retorno do microfonista. Como eram transmissores bodypack sem antena externa, usei cabos XLR mesmo. </p>
-<p>Foto salinha ou planta</p>
-<p> </p>
-<p>Definido o local da base, cabei as antenas nos locais que considerei ideais vesti no Bertazzo o seguinte equipamento:</p>
+<p>Isso feito, parti para o teste, que consistia no seguinte:</p>
 <ul>
-<li>01 cápsula Sanken COS11-D (ainda sem figurino)</li>
-<li>01 transmissor Audio LTD. A10, fixado com uma faixa de tornozelo</li>
-<li>01 receptor Sony URX-P03, fixado com uma faixa de cintura</li>
-<li>01 fone intra-auricular Bubblebee Sideckick 3</li>
+<li>colocar o ponto no Bertazzo e ver o quão viável seria esconder o cabo;</li>
+<li>checar o alcance de RF do lapela e do ponto;</li>
+<li>checar se o Bertazzo se adaptaria ao equipamento </li>
 </ul>
-<p>Na outra ponta, eu estava com o equipamento numa bolsa, com o mínimo necessário para testar. Algo como:</p>
-<ul>
-<li>01 mixer/gravador Sound Devices Scorpio</li>
-<li>01 receptor Audio LTD. A10</li>
-<li>01 distribuidor de RF Betso Octopus</li>
-<li>02 antenas LPDA Betso Sharkie</li>
-<li>02 cabos coaxiais RG-58 de 30 metros</li>
-<li>01 microfone Shure SM57 (talkback)</li>
-<li>01 transmissor Sony UTX-B03 (transmitindo para o ponto)</li>
-<li>01 transmissor Sony UTX-B40 (transmissão para "comtek" de direção)</li>
-</ul>
-<p><em><br></em>Felizmente, correu tudo bem. O Luiz se sentiu confortável, o volume Sidekick era mais do que suficiente e tivemos boa cobertura de RF, mesmo nos pontos mais distantes do set. <br><br>Outra parte importante desse teste foi em checar que, mesmo sem aplicar maquiagem, seria viável esconder o Sideckick.</p>
-<h4>Preparação</h4>
-<p> </p>
-<p>Deste dia em diante, eu tinha aproximadamente uma semana até o ensaio geral, em que simularíamos as condições reais da filmagem, com arte e pré-light feitos. Da minha parte, faltava apenas a chave "push-to-talk" para o microfone da direção. <br><br>Como o nome já diz, é uma chave que só abre o microfone enquanto o botão estiver pressionado, para que a direção pudesse conversar durante o take, sem vazar no ponto eletrônico.<br><br>Eu já tinha feito um disposito destes anteriormente, mas precisei desmontá-la. Então decidi montar outra, mas com uma chave de melhor qualidade e prensa cabos nas laterais. O circuito é realmente simples, precisa apenas da chave e um resistor.</p>
+<p>Felizmente, o Luiz se sentiu confortável, o volume Sidekick era mais do que suficiente e tivemos boa cobertura de RF, mesmo nas extremidades do set. Também saímos confiantes de que daria pra esconder o cabo no cabelo.<br><br>Diagrama de sinal</p>
+<p class="msg msg--info">*Inicialmente, a idéia foi colocar som + direção + elenco de apoio numa mesma sala, mas posteriormente entendemos que seria melhor separar a direção, para dar mais liberdade para dialogarem.</p>
+<h4>Preparação<br><br></h4>
+<p>Deste dia em diante, eu tinha aproximadamente uma semana até o ensaio geral, em que simularíamos as condições reais da filmagem, com arte e pré-light feitos e toda a parafernalha funcionando. Da minha parte, faltava apenas a chave "push-to-talk" para o microfone da direção. <br><br>Como o nome já diz, é uma chave que só abre o microfone enquanto o botão está pressionado. Assim, a direção pode conversar durante o take, sem vazar no ponto eletrônico.<br><br>Eu já tinha feito um disposito destes anteriormente, mas precisei desmontar. Então decidi montar outro, mas com uma chave de melhor qualidade e prensa cabos nas laterais. O circuito é realmente simples, precisa apenas da chave e um resistor.</p>
 <figure class="post__image"><img loading="lazy"  src="https://lab.luisrovai.com/media/posts/4/20260509_143722.jpeg" alt="" width="2252" height="2252" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-xs.jpeg 640w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-sm.jpeg 768w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-md.jpeg 1024w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-lg.jpeg 1366w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-xl.jpeg 1600w ,https://lab.luisrovai.com/media/posts/4/responsive/20260509_143722-2xl.jpeg 1920w"></figure>
-<p>Essa versão funciona perfeitamente para microfones dinâmicos, com conexões balanceadas. Para microfones condensadores com phantom power e sinais não balanceados, outros circuitos são mais adequados.</p>
+<p class="msg msg--info">Essa versão funciona para microfones dinâmicos, com conexões balanceadas. Para microfones condensadores com phantom power e sinais não balanceados, outros circuitos são mais adequados. Mas isso é assunto para outro post.</p>
 <p>Diagrama de sinal</p>
 <p>final da montagem</p>
 <p>ENSAIO</p>
@@ -107,7 +90,24 @@
 <p>outras cenas </p>
 <p>CONSIDERAÇÕES FINAIS</p>
 <p>fim</p>
-<p> </p>
+<p>Afinal, ele estava paramentado com:</p>
+<ul>
+<li>01 cápsula Sanken COS11-D (ainda sem figurino)</li>
+<li>01 transmissor Audio LTD. A10, fixado com uma faixa de tornozelo</li>
+<li>01 receptor Sony URX-P03, fixado com uma faixa de cintura</li>
+<li>01 fone intra-auricular Bubblebee Sideckick 3</li>
+</ul>
+<p>Na outra ponta, estava eu com o equipamento numa bolsa, num kit reduzido:</p>
+<ul>
+<li>01 mixer/gravador Sound Devices Scorpio</li>
+<li>01 receptor Audio LTD. A10</li>
+<li>01 distribuidor de RF Betso Octopus</li>
+<li>02 antenas LPDA Betso Sharkie</li>
+<li>02 cabos coaxiais RG-58 de 30 metros</li>
+<li>01 microfone Shure SM57 (talkback)</li>
+<li>01 transmissor Sony UTX-B03 (transmitindo para o ponto)</li>
+<li>01 transmissor Sony UTX-B40 (transmissão para "comtek" de direção)</li>
+</ul>
             ]]>
         </content>
     </entry>
