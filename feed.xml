@@ -3,7 +3,7 @@
     <title>Luís Rovai | Áudio Lab</title>
     <link href="https://lab.luisrovai.com/feed.xml" rel="self" />
     <link href="https://lab.luisrovai.com" />
-    <updated>2026-06-27T08:47:44-03:00</updated>
+    <updated>2026-06-27T11:31:46-03:00</updated>
     <author>
         <name>Luís Rovai</name>
     </author>
@@ -38,7 +38,7 @@
 <figcaption>Mauricio Bouzon, Caetano Gottardi (diretores) e Luiz Bertazzo (elenco)</figcaption>
 </figure>
 <p class="msg msg--success align-center">Sim, um plano sequência de 86 páginas 🫠 </p>
-<p>Não bastasse a complexidade de operar um balé de 1h20' entre elenco, steadycam, maquinista e microfonista, havia ainda a necessidade de i<span style="font-size: inherit;">mplementar um dispositivo de o comunicação de mão dupla entre o protagonista, elenco de apoio e equipe de direção.</span><br><br><span style="font-size: inherit;">A proposta era que as todas ligações telefônicas - e em diferentes telefones - fossem interações verdadeiras, com ambos os lados da conversa valendo. Esse era um elemento fundamental para a história funcionar, e daria mais rítmo e veracidade à interpretação.</span></p>
+<p>Não bastasse a complexidade de operar um balé de 1h20' entre elenco, steadycam, maquinista e microfonista, havia ainda a necessidade de i<span style="font-size: inherit;">mplementar um dispositivo de comunicação de mão dupla entre o protagonista, elenco de apoio e equipe de direção.</span><br><br><span style="font-size: inherit;">A proposta era que todas ligações telefônicas - e em diferentes telefones - fossem interações verdadeiras, com ambos os lados da conversa valendo. Esse era um elemento fundamental para a história funcionar, e daria mais ritmo e veracidade à interpretação.</span></p>
 <p><span style="font-size: inherit;">Para isso, teríamos um elenco de apoio em local separado do set, dando as falas em <em>off</em> das ligações telefônicas.<br><br></span>A equipe de direção também precisaria se comunicar com o Luiz Bertazzo, nosso protagonista, que usaria um dispositivo de ponto eletrônico* para ter retorno de áudio.<br><br>Desenhar esse sistema de comunicação era uma das tarefas principais deste projeto.</p>
 <p class="msg msg--info">*aqui estou usando esse nome popular, mas por "ponto eletrônico" eu me refiro à monitoração de áudio sem fio, intra-auricular</p>
 <h3>Pesquisa<br><br></h3>
@@ -55,16 +55,16 @@
 <p class="msg msg--highlight ">Se conseguíssemos esconder o cabo no pedaço em que ele fica exposto, seria possível conectar o fone a um receptor sem fio, e criar uma alternativa de baixo custo, com qualidade de áudio e recepção de RF superiores a de um Phonak.</p>
 <p>Apresentei essa opção para a direção, que acreditou na sua viabilidade. O figurino era uma camisa social cobrindo boa parte da nuca, e o Bertazzo não estaria com o cabelo bem curto, o que ajudaria a esconder o cabo.<br><br>Com a ajuda da produção, locamos um Bubblebee Sidekick 3 IFB para servir de ponto eletrônico.</p>
 <h3>Visita técnica</h3>
-<p><br>O próximo passo foi marca uma visita técnica no local, para testar o equipamento com ele, e definir onde estaria o restante da equipe.</p>
-<p>Som, direção, produção e fotografia reunidos, caminhamos pela locação procurando o melhor local para montar nossa base*. Encontramos duas salinhas perto da entrada, com bom isolamento acústico e perto o bastante para viabilizar o cabeamento das antenas. <br><br>Aliás, o posicionamento das antenas era outro ponto crítico: eu precisava ter cobertura de RF num andar inteiro, incluindo longos corredores e o hall de elevadores. </p>
-<p>Acabei optando por deixar as antenas bem espaçadas (uns 10m, aprox.), quase como duas zonas. Essa é uma escolha que traz a consequência de sacrificar o <a href="https://en.wikipedia.org/wiki/Antenna_diversity" target="_blank" rel="noopener noreferrer">diversity</a>: ou seja, em alguns cantos, o sinal era recebido quase que somente pela antena A; em outos, somente pela antena B.</p>
+<p><br>O próximo passo foi marcar uma visita técnica no local, para testar o equipamento com ele, e definir onde estaria o restante da equipe.</p>
+<p>Som, direção, produção e fotografia reunidos, caminhamos pela locação procurando o melhor local para montar nossa base*. Encontramos duas salinhas perto da entrada, com bom isolamento acústico e perto o suficiente para viabilizar o cabeamento das antenas. <br><br>Aliás, o posicionamento das antenas era outro ponto crítico: eu precisava ter cobertura de RF num andar inteiro, incluindo longos corredores e o hall de elevadores. </p>
+<p>Acabei optando por deixar as antenas bem espaçadas (uns 10m, aprox.), quase como duas zonas. Essa é uma escolha que traz a consequência de sacrificar o <a href="https://en.wikipedia.org/wiki/Antenna_diversity" target="_blank" rel="noopener noreferrer">diversity</a>: ou seja, em alguns cantos, o sinal era recebido quase que somente pela antena A; em outros, somente pela antena B.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/4/Andar-vazio.jpeg" alt="" width="1920" height="1080" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/4/responsive/Andar-vazio-xs.jpeg 640w ,https://lab.luisrovai.com/media/posts/4/responsive/Andar-vazio-sm.jpeg 768w ,https://lab.luisrovai.com/media/posts/4/responsive/Andar-vazio-md.jpeg 1024w ,https://lab.luisrovai.com/media/posts/4/responsive/Andar-vazio-lg.jpeg 1366w ,https://lab.luisrovai.com/media/posts/4/responsive/Andar-vazio-xl.jpeg 1600w ,https://lab.luisrovai.com/media/posts/4/responsive/Andar-vazio-2xl.jpeg 1920w">
 <figcaption>Foto da locação vazia, indicando os locais aproximados das antenas A e B. </figcaption>
 </figure>
-<p>Isso impede que o receptor tenha sempre duas antenas para alternar ou combinar os sinais, mas foi a maneira de cobrir todo o espaço necessário, sem um sistema de zonas propriamente dito.<br><br>Também aproximei do set os transmissores para o ponto eletrônico e o retorno do microfonista, pois era outros elementos fundamentais para a comunicação. Por serem transmissores bodypack sem antena externa, usei cabos XLR mesmo. </p>
+<p>Isso impede que o receptor tenha sempre duas antenas para alternar ou combinar os sinais, mas foi a maneira de cobrir todo o espaço necessário, sem um sistema de zonas propriamente dito.<br><br>Também aproximei do set os transmissores para o ponto eletrônico e o retorno do microfonista, pois eram outros elementos fundamentais para a comunicação. Por serem transmissores bodypack sem antena externa, usei cabos XLR mesmo. </p>
 <p>Isso feito, parti para o teste, que consistia no seguinte:</p>
 <ul>
-<li>avaliar o quão viável seria esconder o cabo do Sidekick (ou ponto eltrônico);</li>
+<li>avaliar o quão viável seria esconder o cabo do Sidekick (ou ponto eletrônico);</li>
 <li>avaliar o alcance de RF do lapela e do ponto; </li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
@@ -75,14 +75,14 @@
 <figcaption>Equipe de maquiagem escondendo o cabo</figcaption>
 </figure>
 </div></div>
-<p>Felizmente, o Luiz se sentiu confortável, o volume Sidekick era mais do que suficiente e tivemos boa cobertura de RF, mesmo nas extremidades do set. Também saímos confiantes de que seria possível esconder o cabo no cabelo.<br><br>Ao final do tech scou, este era o diagrama de sinal:<br><br></p>
+<p>Felizmente, o Luiz se sentiu confortável, o volume Sidekick era mais do que suficiente e tivemos boa cobertura de RF, mesmo nas extremidades do set. Também saímos confiantes de que seria possível esconder o cabo no cabelo.<br><br>Ao final do tech scout, este era o diagrama de sinal:<br><br></p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
 <figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/4/gallery/Diagama-v7.png" data-size="3320x3720"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/4/gallery/Diagama-v7-thumbnail.png" alt="" width="720" height="807"></a>
 <figcaption>Diagrama de sinal de Covardia</figcaption>
 </figure>
 </div></div>
 <h3>Preparação<br><br></h3>
-<p>Depois da visita técnica, eu tinha aproximadamente uma semana até o ensaio geral, em que toda a parafernalha deveria estar funcionando. Da minha parte, faltava apenas a chave "push-to-talk" para o microfone da direção. <br><br>Como o nome já diz, é uma chave que só abre o microfone enquanto o botão está pressionado. Assim que você solta, ela fecha. Isso para que a direção possa conversar durante o take, sem vazar no ponto eletrônico.<br><br>Eu já tinha feito um push-to-talk anteriormente, mas precisei desmontar. Então decidi fazer outro, mas com uma chave de melhor qualidade (Margirus 18533 NF) e utilizando prensa-cabo nas laterais. O circuito é realmente simples, rquer apenas da chave e um resistor.</p>
+<p>Depois da visita técnica, eu tinha aproximadamente uma semana até o ensaio geral, em que toda a parafernalha deveria estar funcionando. Da minha parte, faltava apenas a chave "push-to-talk" para o microfone da direção. <br><br>Como o nome já diz, é uma chave que só abre o microfone enquanto o botão está pressionado. Assim que você solta, ela fecha. Isso para que a direção possa conversar durante o take, sem vazar no ponto eletrônico.<br><br>Eu já tinha feito um push-to-talk anteriormente, mas precisei desmontar. Então decidi fazer outro, mas com uma chave de melhor qualidade (Margirus 18533 NF) e utilizando prensa-cabo nas laterais. O circuito é realmente simples, requer apenas da chave e um resistor.</p>
 <figure class="post__image">
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/4/gallery/20260509_140017.jpeg" data-size="1080x1920"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/4/gallery/20260509_140017-thumbnail.jpeg" alt="" width="720" height="1280"></a>
@@ -108,10 +108,10 @@
 </figure>
 </div></div>
 <h3>Ensaio</h3>
-<p><br>O geral seria dois antes de comerçarmos a rodar. Tudo deveria estar pronto, para fazermos uma simulação real da diária.</p>
-<p>Assim que chegamos na locação, passamos pelo teto todo o cabeamente de áudio e RF. Foi preciso abrir o forro de dry-wall e fazer um pequeno furo na divisória entre as salas, pois não poderia haver cabos saindo pelas portas. Já na área mais aberta do escritório, aproveitamos as eletrocalhas já instaladas.</p>
-<p>Um ponto positivo de ensaiar na antevéspera de rodar era que arte e pré-light já estavam prontos. Só assim pudemos entener realmente a movimentação do boom e do steady durante o plano sequência - um dos maiores desafios desse projeto, senão o maior. </p>
-<p>E aqui tenho de tirar o chapéu para o Lucas Chaves (microfonista) e o Vinicius Corso (operador de steady cam), que foram verdadeiros ninjas. É difícil expressar em palavras a complexidade realizar uma movimentação tão extensa como essa, ainda mais quando boa parte dela ocorre dentro de uma sala envidraçada.</p>
+<p><br>O geral seria dois antes de começarmos a rodar. Tudo deveria estar pronto, para fazermos uma simulação real da diária.</p>
+<p>Assim que chegamos na locação, passamos pelo teto todo o cabeamento de áudio e RF. Foi preciso abrir o forro de dry-wall e fazer um pequeno furo na divisória entre as salas, pois não poderia haver cabos saindo pelas portas. Já na área mais aberta do escritório, aproveitamos as eletrocalhas já instaladas.</p>
+<p>Um ponto positivo de ensaiar na antevéspera de rodar era que arte e pré-light já estavam prontos. Só assim pudemos entender realmente a movimentação do boom e do steady durante o plano sequência - um dos maiores desafios desse projeto, senão o maior. </p>
+<p>E aqui tenho de tirar o chapéu para o Lucas Chaves (microfonista) e o Vinicius Corso (operador de steady cam), que foram verdadeiros ninjas. É difícil expressar em palavras a complexidade de realizar uma movimentação tão extensa como essa, ainda mais quando boa parte dela ocorre dentro de uma sala envidraçada.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/4/Ninjas.jpeg" alt="" width="1920" height="1081" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lab.luisrovai.com/media/posts/4/responsive/Ninjas-xs.jpeg 640w ,https://lab.luisrovai.com/media/posts/4/responsive/Ninjas-sm.jpeg 768w ,https://lab.luisrovai.com/media/posts/4/responsive/Ninjas-md.jpeg 1024w ,https://lab.luisrovai.com/media/posts/4/responsive/Ninjas-lg.jpeg 1366w ,https://lab.luisrovai.com/media/posts/4/responsive/Ninjas-xl.jpeg 1600w ,https://lab.luisrovai.com/media/posts/4/responsive/Ninjas-2xl.jpeg 1920w">
 <figcaption>Ninjas no set: câmera, som e maquinária</figcaption>
 </figure>
@@ -128,7 +128,7 @@
 </div></div>
 <h3>Colocando o plano em ação<br><br></h3>
 <p>Durante a filmagem, mantivemos a lógica de dividir o plano sequência em três partes. Na primeira diária fizemos a parte um, na segunda a parte dois, e assim por diante. Somente na quarta diária, partimos para o plano sequência inteiro, mas com a garantia de já termos as partes separadas.<br><br>A estrutura se mostrou funcional, não houve dropouts, o ponto não caiu da orelha e a comunicação fluiu perfeitamente. Tive um momento de tensão quando, num dos takes, a bateria do transmissor do boom simplesmente despencou e o Lucas teve de trocar ali, na hora! </p>
-<p>Um detalhe que ajudou bastante à criar uma boa mix foi aplicar um equalizador nas vozes em off, para que elas tivessem uma característica de ligação telefônica.</p>
+<p>Um detalhe que ajudou bastante a criar uma boa mixagem foi aplicar um equalizador nas vozes em off, para que elas tivessem uma característica de ligação telefônica.</p>
 <p>Eu queria gravar a pista isolada sem o efeito, então apliquei o equalizador pós-fader. Porém, para obter o som desejado, precisei também de um filtro passa-alta em torno de 300Hz, mas este é sempre pré-fader, pelo design do gravador. </p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/4/gallery/scr_06_25_26-14_48_27.jpeg" data-size="320x240"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/4/gallery/scr_06_25_26-14_48_27-thumbnail.jpeg" alt="" width="320" height="240"></a>
