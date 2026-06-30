@@ -3,7 +3,7 @@
     <title>Luís Rovai | Áudio Lab</title>
     <link href="https://lab.luisrovai.com/feed.xml" rel="self" />
     <link href="https://lab.luisrovai.com" />
-    <updated>2026-06-27T11:31:46-03:00</updated>
+    <updated>2026-06-30T09:56:37-03:00</updated>
     <author>
         <name>Luís Rovai</name>
     </author>
@@ -42,7 +42,7 @@
 <p><span style="font-size: inherit;">Para isso, teríamos um elenco de apoio em local separado do set, dando as falas em <em>off</em> das ligações telefônicas.<br><br></span>A equipe de direção também precisaria se comunicar com o Luiz Bertazzo, nosso protagonista, que usaria um dispositivo de ponto eletrônico* para ter retorno de áudio.<br><br>Desenhar esse sistema de comunicação era uma das tarefas principais deste projeto.</p>
 <p class="msg msg--info">*aqui estou usando esse nome popular, mas por "ponto eletrônico" eu me refiro à monitoração de áudio sem fio, intra-auricular</p>
 <h3>Pesquisa<br><br></h3>
-<p>A primeira coisa sobre a qual me debrucei foi o ponto eletrônico. Não havia tido experiências muito boas com Phonak Invisity, tanto no alcance da transmissão, quanto na qualidade de áudio.</p>
+<p>A primeira coisa sobre a qual me debrucei foi o ponto eletrônico. Não havia tido experiências muito boas com <a href="https://www.gqcentertainment.com/product-page/phonak-invisity-earbud" target="_blank" rel="noopener noreferrer">Phonak Invisity</a>, tanto no alcance da transmissão, quanto na qualidade de áudio.</p>
 <p>Num outro trabalho, mesmo com uma <a href="https://www.bhphotovideo.com/c/product/1349314-REG/rf_venue_24beam_2_4_ghz_cp_beam.html" target="_blank" rel="noopener noreferrer">antena direcional</a>, o link entre transmissor e receptor era frágil e eventualmente caia; algo que não poderia acontecer nesse projeto, sob risco de arruinar um take de mais de uma hora. Além disso, era a alternativa mais cara.<br><br>Tudo somado, eu não estava muito inclinado a ir com os Phonaks. Ao invés deles, uma solução que me veio à mente foram fones intra-auriculares de cabo bem fino e quase transparentes, mais especificamente os <a href="https://www.bubblebeeindustries.com/collections/the-sidekick-ifb-in-ear-monitor/products/the-sidekick-3-ifb-in-ear-monitor" target="_blank" rel="noopener noreferrer">Bubblebee Sideckick</a> e <a href="https://www.haltertechnical.com/peeko.html" target="_blank" rel="noopener noreferrer">Halter Technical Peeko</a>.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://lab.luisrovai.com/media/posts/4/gallery/Sidekick_quad.jpeg" data-size="2252x2252"><img loading="lazy" src="https://lab.luisrovai.com/media/posts/4/gallery/Sidekick_quad-thumbnail.jpeg" alt="" width="720" height="720"></a>
